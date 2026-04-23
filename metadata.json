@@ -1,0 +1,5 @@
+{
+  "name": "Excel2PDF AI",
+  "description": "Bulk-fill PDF forms using data from Excel spreadsheets with AI-powered field mapping.",
+  "requestFramePermissions": []
+}
